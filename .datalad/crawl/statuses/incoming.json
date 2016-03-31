@@ -1,0 +1,18 @@
+{
+  "db_version": 1,
+  "files": {
+    "README.txt": {},
+    "changelog.txt": {
+      "mtime": 1401502532,
+      "size": 28
+    },
+    "ds001_R1.1.0_raw.tgz": {
+      "mtime": 1456505509,
+      "size": 2527262329
+    },
+    "ds001_raw.tgz": {
+      "mtime": 1401298859,
+      "size": 2526804721
+    }
+  }
+}
