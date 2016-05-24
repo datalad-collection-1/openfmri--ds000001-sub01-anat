@@ -3,12 +3,16 @@
   "files": {
     "README.txt": {},
     "changelog.txt": {
-      "mtime": 1455827805,
-      "size": 117
+      "mtime": 1401502532,
+      "size": 28
     },
     "ds001_R1.1.0_raw.tgz": {
       "mtime": 1456505509,
       "size": 2527262329
+    },
+    "ds001_R2.0.0_raw.tgz": {
+      "mtime": 1464117537,
+      "size": 2426534406
     },
     "ds001_raw.tgz": {
       "mtime": 1401298859,

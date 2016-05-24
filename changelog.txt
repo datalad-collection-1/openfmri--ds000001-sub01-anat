@@ -1,4 +1,2 @@
 7/10/2012: initial release
-2/18/2016: fixed orientation in nifti headers more consistent left-right determination.
-
 
