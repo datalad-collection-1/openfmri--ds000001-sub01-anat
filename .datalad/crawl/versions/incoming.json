@@ -1,6 +1,6 @@
 {
   "db_version": 1,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "versions": [
     [
       "1.0.0",
@@ -18,6 +18,12 @@
       "2.0.0",
       {
         "ds001_raw.tgz": "ds001_R2.0.0_raw.tgz"
+      }
+    ],
+    [
+      "2.0.1",
+      {
+        "ds001_raw.tgz": "ds001_R2.0.1_raw.tgz"
       }
     ]
   ]
