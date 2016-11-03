@@ -1,9 +1,4 @@
 {
     "RepetitionTime": 2.0,
-    "TaskName": "balloon analog risk task",
-    "Manufacturer": "Siemens",
-    "ManufacturersModelName": " Allegra",
-    "MagneticFieldStrength": "3.0",
-    "EchoTime": 0.030,
-    "FlipAngle": 90
+    "TaskName": "balloon analog risk task"
 }
