@@ -11,6 +11,10 @@
         "description": "[datalad-archives]"
       },
       {
+        "@id": "c6dd6d46-3a72-442a-aac6-b0bba8ce91f0",
+        "description": "yoh@falkor:/srv/datasets-dev.datalad.org/www/openfmri/ds000001"
+      },
+      {
         "@id": "c8bd3d05-33d4-4b59-9d53-ca7efbdcdd13",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000001"
       },
