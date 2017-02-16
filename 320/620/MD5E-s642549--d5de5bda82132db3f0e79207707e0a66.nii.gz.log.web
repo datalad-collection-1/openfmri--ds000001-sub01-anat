@@ -5,3 +5,5 @@
 1471197092.300501s 1 :dl+archive:MD5E-s2426534406--aa96b8184370de7170ab46e1a643c3c0.0raw.tgz#path=ds001_R2.0.0/sub-13/anat/sub-13_inplaneT2.nii.gz&size=642549
 1464120209.573288s 1 :dl+archive:MD5E-s2426534406--aa96b8184370de7170ab46e1a643c3c0.0raw.tgz/ds001_R2.0.0/sub-13/anat/sub-13_inplaneT2.nii.gz#size=642549
 1459398472.596642s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub013/anatomy/inplane001.nii.gz#size=642549
+1487284148.057993236s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub013/anatomy/inplane001.nii.gz?versionId=null
+1487284700.355736923s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-13/anat/sub-13_inplaneT2.nii.gz?versionId=null

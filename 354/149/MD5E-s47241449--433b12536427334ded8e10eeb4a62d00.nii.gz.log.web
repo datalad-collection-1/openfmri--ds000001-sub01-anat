@@ -4,3 +4,5 @@
 1471197086.450427s 1 :dl+archive:MD5E-s2426534406--aa96b8184370de7170ab46e1a643c3c0.0raw.tgz#path=ds001_R2.0.0/sub-01/func/sub-01_task-balloonanalogrisktask_run-01_bold.nii.gz&size=47241449
 1464120203.616747s 1 :dl+archive:MD5E-s2426534406--aa96b8184370de7170ab46e1a643c3c0.0raw.tgz/ds001_R2.0.0/sub-01/func/sub-01_task-balloonanalogrisktask_run-01_bold.nii.gz#size=47241449
 1459398488.483481s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub001/BOLD/task001_run001/bold.nii.gz#size=47241449
+1487283433.041446157s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub001/BOLD/task001_run001/bold.nii.gz?versionId=null
+1487284468.186984921s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-01/func/sub-01_task-balloonanalogrisktask_run-01_bold.nii.gz?versionId=null

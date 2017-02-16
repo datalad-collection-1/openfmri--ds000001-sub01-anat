@@ -5,3 +5,5 @@
 1471197087.210841s 1 :dl+archive:MD5E-s2426534406--aa96b8184370de7170ab46e1a643c3c0.0raw.tgz#path=ds001_R2.0.0/sub-03/anat/sub-03_T1w.nii.gz&size=5276910
 1464120204.56889s 1 :dl+archive:MD5E-s2426534406--aa96b8184370de7170ab46e1a643c3c0.0raw.tgz/ds001_R2.0.0/sub-03/anat/sub-03_T1w.nii.gz#size=5276910
 1459398484.839623s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub003/anatomy/highres001.nii.gz#size=5276910
+1487283577.618788266s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub003/anatomy/highres001.nii.gz?versionId=null
+1487284501.834320024s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-03/anat/sub-03_T1w.nii.gz?versionId=null
