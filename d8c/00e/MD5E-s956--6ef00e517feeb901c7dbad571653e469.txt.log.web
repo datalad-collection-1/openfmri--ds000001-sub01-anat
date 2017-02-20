@@ -2,3 +2,5 @@
 1459398474.499929s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub015/model/model001/onsets/task001_run001/cond010.txt#size=956
 1478182660.651965s 1 :http://openfmri.s3.amazonaws.com/ds001/sub015/model/model001/onsets/task001_run001/cond010.txt?versionId=null
 1487284267.669378724s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub015/model/model001/onsets/task001_run001/cond010.txt?versionId=null
+1487616368.903259644s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub015/model/model001/onsets/task001_run001/cond010.txt?versionId=null
+1487620153.898203747s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub015/model/model001/onsets/task001_run001/cond010.txt?versionId=null

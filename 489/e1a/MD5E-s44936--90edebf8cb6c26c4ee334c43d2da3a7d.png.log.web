@@ -2,3 +2,5 @@
 1459398487.097978s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub007/BOLD/task001_run001/QA/mad.png#size=44936
 1478181929.983583s 1 :http://openfmri.s3.amazonaws.com/ds001/sub007/BOLD/task001_run001/QA/mad.png?versionId=null
 1487283764.887034023s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub007/BOLD/task001_run001/QA/mad.png?versionId=null
+1487615830.242198053s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub007/BOLD/task001_run001/QA/mad.png?versionId=null
+1487619632.884442972s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub007/BOLD/task001_run001/QA/mad.png?versionId=null

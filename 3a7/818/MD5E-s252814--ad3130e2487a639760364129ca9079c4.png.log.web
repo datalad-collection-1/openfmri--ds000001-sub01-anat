@@ -2,3 +2,5 @@
 1459398478.504511s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub016/BOLD/task001_run002/QA/voxmean.png#size=252814
 1478182707.076718s 1 :http://openfmri.s3.amazonaws.com/ds001/sub016/BOLD/task001_run002/QA/voxmean.png?versionId=null
 1487284298.680535155s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub016/BOLD/task001_run002/QA/voxmean.png?versionId=null
+1487616410.948346392s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub016/BOLD/task001_run002/QA/voxmean.png?versionId=null
+1487620188.08377123s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub016/BOLD/task001_run002/QA/voxmean.png?versionId=null

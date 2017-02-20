@@ -2,3 +2,5 @@
 1459398470.274446s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub008/BOLD/task001_run003/QA/dvars.txt#size=7500
 1478182044.168786s 1 :http://openfmri.s3.amazonaws.com/ds001/sub008/BOLD/task001_run003/QA/dvars.txt?versionId=null
 1487283844.098739899s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub008/BOLD/task001_run003/QA/dvars.txt?versionId=null
+1487615913.909363278s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub008/BOLD/task001_run003/QA/dvars.txt?versionId=null
+1487619712.011255746s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub008/BOLD/task001_run003/QA/dvars.txt?versionId=null

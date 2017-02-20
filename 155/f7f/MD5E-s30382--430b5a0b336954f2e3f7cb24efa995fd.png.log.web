@@ -2,3 +2,5 @@
 1459398478.173026s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub016/BOLD/task001_run001/QA/meanpsd.png#size=30382
 1478182687.324231s 1 :http://openfmri.s3.amazonaws.com/ds001/sub016/BOLD/task001_run001/QA/meanpsd.png?versionId=null
 1487284285.130998976s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub016/BOLD/task001_run001/QA/meanpsd.png?versionId=null
+1487616398.534402654s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub016/BOLD/task001_run001/QA/meanpsd.png?versionId=null
+1487620170.558503093s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub016/BOLD/task001_run001/QA/meanpsd.png?versionId=null

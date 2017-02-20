@@ -8,3 +8,7 @@
 1487283461.608815882s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub001/anatomy/highres001.nii.gz?versionId=null
 1487284460.137312134s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-01/anat/sub-01_T1w.nii.gz?versionId=null
 1487561633.052358626s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub001/anatomy/highres001.nii.gz?versionId=null
+1487616578.817053504s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-01/anat/sub-01_T1w.nii.gz?versionId=null
+1487616998.796991714s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.2/uncompressed/sub-01/anat/sub-01_T1w.nii.gz?versionId=null
+1487617310.062401779s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.3/uncompressed/sub-01/anat/sub-01_T1w.nii.gz?versionId=null
+1487617682.329761292s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.4/uncompressed/sub-01/anat/sub-01_T1w.nii.gz?versionId=null

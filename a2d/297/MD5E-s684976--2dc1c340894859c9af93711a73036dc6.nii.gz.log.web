@@ -7,3 +7,8 @@
 1459398486.225818s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub005/anatomy/inplane001.nii.gz#size=684976
 1487283686.52198528s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/anatomy/inplane001.nii.gz?versionId=null
 1487284543.249378001s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-05/anat/sub-05_inplaneT2.nii.gz?versionId=null
+1487615757.855103666s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/anatomy/inplane001.nii.gz?versionId=null
+1487616668.397057482s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-05/anat/sub-05_inplaneT2.nii.gz?versionId=null
+1487617058.554387358s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.2/uncompressed/sub-05/anat/sub-05_inplaneT2.nii.gz?versionId=null
+1487617386.49467975s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.3/uncompressed/sub-05/anat/sub-05_inplaneT2.nii.gz?versionId=null
+1487617762.049230176s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.4/uncompressed/sub-05/anat/sub-05_inplaneT2.nii.gz?versionId=null
