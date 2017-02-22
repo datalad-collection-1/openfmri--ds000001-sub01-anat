@@ -8,6 +8,7 @@
 1487283919.270086429s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub009/anatomy/inplane001.nii.gz?versionId=null
 1487284616.203844239s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-09/anat/sub-09_inplaneT2.nii.gz?versionId=null
 1487615985.904887225s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub009/anatomy/inplane001.nii.gz?versionId=null
+1487783774.161695617s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-09/anat/sub-09_inplaneT2.nii.gz?versionId=VXBeT0eva2XvyLPIM54tWQEmmXsgH0BY
 1487616752.466784837s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-09/anat/sub-09_inplaneT2.nii.gz?versionId=null
 1487617126.590512406s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.2/uncompressed/sub-09/anat/sub-09_inplaneT2.nii.gz?versionId=null
 1487617469.557092421s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.3/uncompressed/sub-09/anat/sub-09_inplaneT2.nii.gz?versionId=null
