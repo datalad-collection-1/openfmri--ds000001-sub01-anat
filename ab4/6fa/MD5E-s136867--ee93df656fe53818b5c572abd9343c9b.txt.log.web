@@ -2,5 +2,6 @@
 1459398476.724871s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub009/BOLD/task001_run001/QA/confound.txt#size=136867
 1478182091.91818s 1 :http://openfmri.s3.amazonaws.com/ds001/sub009/BOLD/task001_run001/QA/confound.txt?versionId=null
 1487283877.598596529s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub009/BOLD/task001_run001/QA/confound.txt?versionId=null
+1492015461.051773339s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub009/BOLD/task001_run001/QA/confound.txt?versionId=QA5ybuF8NODW3Csswq1DA95RiUSKU5lC
 1487615942.242822867s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub009/BOLD/task001_run001/QA/confound.txt?versionId=null
 1487619746.141022714s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub009/BOLD/task001_run001/QA/confound.txt?versionId=null
