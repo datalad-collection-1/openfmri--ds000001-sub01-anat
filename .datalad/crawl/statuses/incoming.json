@@ -1,11 +1,6 @@
 {
   "db_version": 1,
   "files": {
-    "changelog.txt": {
-      "filename": "ds001_release_history.txt",
-      "mtime": 1455827805,
-      "size": 117
-    },
     "ds000001_R2.0.2_raw.zip": {
       "filename": "ds000001_R2.0.2_raw.zip",
       "mtime": 1476375942,
