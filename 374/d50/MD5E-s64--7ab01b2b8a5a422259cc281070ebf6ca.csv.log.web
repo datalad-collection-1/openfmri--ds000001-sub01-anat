@@ -2,5 +2,6 @@
 1459398483.19486s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub004/BOLD/task001_run002/QA/qadata.csv#size=64
 1478181699.685706s 1 :http://openfmri.s3.amazonaws.com/ds001/sub004/BOLD/task001_run002/QA/qadata.csv?versionId=null
 1487283612.10153304s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub004/BOLD/task001_run002/QA/qadata.csv?versionId=null
+1492014998.566811221s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub004/BOLD/task001_run002/QA/qadata.csv?versionId=qtw_I3b84lCzXDHaj_ZOTtZsDLSW13tY
 1487561805.663044568s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub004/BOLD/task001_run002/QA/qadata.csv?versionId=null
 1487619473.317038534s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub004/BOLD/task001_run002/QA/qadata.csv?versionId=null
