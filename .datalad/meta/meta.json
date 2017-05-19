@@ -8,7 +8,7 @@
     "availableFrom": [
       {
         "@id": "899f0347-0888-48ef-91b6-bac213ca8cef",
-        "description": "[datalad-archives]"
+        "description": "datalad-archives"
       },
       {
         "@id": "c6dd6d46-3a72-442a-aac6-b0bba8ce91f0",
@@ -24,7 +24,7 @@
       },
       {
         "@id": "f4cc85b8-e252-4c4d-9c35-6dc64ce87317",
-        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000001 [datalad-public]"
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000001"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
