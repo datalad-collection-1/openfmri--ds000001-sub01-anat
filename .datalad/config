@@ -1,2 +1,4 @@
 [datalad "dataset"]
 	id = 233cc486-7d0e-11e6-855b-002590f97d84
+[metadata]
+	nativetype = bids
