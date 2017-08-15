@@ -3,34 +3,37 @@
   "files": {
     "ds000001_R2.0.2_raw.zip": {
       "filename": "ds000001_R2.0.2_raw.zip",
-      "mtime": 1476375942,
+      "mtime": 1484123195,
       "size": 2415911708
     },
     "ds000001_R2.0.3_raw.zip": {
       "filename": "ds000001_R2.0.3_raw.zip",
-      "mtime": 1476996233,
+      "mtime": 1484123268,
       "size": 2415911710
     },
     "ds000001_R2.0.4_raw.zip": {
       "filename": "ds000001_R2.0.4_raw.zip",
-      "mtime": 1478129027,
+      "mtime": 1484123336,
       "size": 2416078169
     },
     "ds001_R1.1.0_raw.tgz": {
-      "mtime": 1456505509,
+      "filename": "ds001_R1.1.0_raw.tgz",
+      "mtime": 1484123019,
       "size": 2527262329
     },
     "ds001_R2.0.0_raw.tgz": {
-      "mtime": 1464117537,
+      "filename": "ds001_R2.0.0_raw.tgz",
+      "mtime": 1484123119,
       "size": 2426534406
     },
     "ds001_R2.0.1_raw.tgz": {
       "filename": "ds001_R2.0.1_raw.tgz",
-      "mtime": 1473892862,
+      "mtime": 1484123119,
       "size": 2416581890
     },
     "ds001_raw.tgz": {
-      "mtime": 1401298859,
+      "filename": "ds001_raw.tgz",
+      "mtime": 1491331991,
       "size": 2526804721
     }
   }
