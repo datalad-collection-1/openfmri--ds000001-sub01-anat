@@ -1,7 +1,7 @@
 1459398414.672305s 1 :dl+archive:MD5E-s2526804721--b29a61c20f974c5e75e7783500ebe8ed.tgz/ds001/sub005/BOLD/task001_run002/QA/spike.png#size=42418
 1459398486.109352s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub005/BOLD/task001_run002/QA/spike.png#size=42418
 1478181784.248709s 1 :http://openfmri.s3.amazonaws.com/ds001/sub005/BOLD/task001_run002/QA/spike.png?versionId=null
-1487283664.358906152s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run002/QA/spike.png?versionId=null
-1492015100.744584943s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub005/BOLD/task001_run002/QA/spike.png?versionId=1Llx6.rFvG2DvqLFXBXeEC61xJStik2i
-1487615737.38726342s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run002/QA/spike.png?versionId=null
-1487619534.623464394s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub005/BOLD/task001_run002/QA/spike.png?versionId=null
+1487283664.358906152s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run002/QA/spike.png?versionId=null
+1492015100.744584943s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub005/BOLD/task001_run002/QA/spike.png?versionId=1Llx6.rFvG2DvqLFXBXeEC61xJStik2i
+1487615737.38726342s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run002/QA/spike.png?versionId=null
+1487619534.623464394s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub005/BOLD/task001_run002/QA/spike.png?versionId=null

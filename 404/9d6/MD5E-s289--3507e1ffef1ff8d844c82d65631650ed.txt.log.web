@@ -1,6 +1,6 @@
 1478182768.779273s 1 :http://openfmri.s3.amazonaws.com/ds001/demographics.txt?versionId=2p0vXVgICX64PCLKim86Ea1xGwYC1Xpk
 1478182766.14755s 1 :http://openfmri.s3.amazonaws.com/ds001/demographics.txt?versionId=GaH7NDcIx_MxO92AkdXEo1W3NcPrzaBQ
-1487283416.754208128s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/demographics.txt?versionId=null
-1492014668.841063385s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/demographics.txt?versionId=NQPxGr1XZDUIv55b8PhsD_6MANuzrGo5
-1487561585.661644057s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/demographics.txt?versionId=null
-1487619272.767303202s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/demographics.txt?versionId=null
+1487283416.754208128s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/demographics.txt?versionId=null
+1492014668.841063385s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/demographics.txt?versionId=NQPxGr1XZDUIv55b8PhsD_6MANuzrGo5
+1487561585.661644057s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/demographics.txt?versionId=null
+1487619272.767303202s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/demographics.txt?versionId=null

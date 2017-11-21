@@ -1,7 +1,7 @@
 1459398413.261357s 1 :dl+archive:MD5E-s2526804721--b29a61c20f974c5e75e7783500ebe8ed.tgz/ds001/sub004/BOLD/task001_run002/QA/mad.png#size=42898
 1459398483.063617s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub004/BOLD/task001_run002/QA/mad.png#size=42898
 1478181697.991222s 1 :http://openfmri.s3.amazonaws.com/ds001/sub004/BOLD/task001_run002/QA/mad.png?versionId=null
-1487283610.810432637s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub004/BOLD/task001_run002/QA/mad.png?versionId=null
-1492014996.85816442s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub004/BOLD/task001_run002/QA/mad.png?versionId=O_6GUarzkuXVFa.Abh_gcCs92KeF5f6D
-1487561804.121885201s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub004/BOLD/task001_run002/QA/mad.png?versionId=null
-1487619471.93153445s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub004/BOLD/task001_run002/QA/mad.png?versionId=null
+1487283610.810432637s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub004/BOLD/task001_run002/QA/mad.png?versionId=null
+1492014996.85816442s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub004/BOLD/task001_run002/QA/mad.png?versionId=O_6GUarzkuXVFa.Abh_gcCs92KeF5f6D
+1487561804.121885201s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub004/BOLD/task001_run002/QA/mad.png?versionId=null
+1487619471.93153445s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub004/BOLD/task001_run002/QA/mad.png?versionId=null

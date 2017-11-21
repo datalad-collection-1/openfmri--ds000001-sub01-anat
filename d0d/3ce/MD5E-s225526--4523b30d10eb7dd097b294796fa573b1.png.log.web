@@ -1,7 +1,7 @@
 1459398411.689956s 1 :dl+archive:MD5E-s2526804721--b29a61c20f974c5e75e7783500ebe8ed.tgz/ds001/sub003/BOLD/task001_run001/QA/voxmean.png#size=225526
 1459398484.378574s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub003/BOLD/task001_run001/QA/voxmean.png#size=225526
 1478181598.476718s 1 :http://openfmri.s3.amazonaws.com/ds001/sub003/BOLD/task001_run001/QA/voxmean.png?versionId=null
-1487283546.860979037s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub003/BOLD/task001_run001/QA/voxmean.png?versionId=null
-1492014885.937934173s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub003/BOLD/task001_run001/QA/voxmean.png?versionId=65VqEQ1aN70cJmwfJOu38IKaQfX7rYns
-1487561728.115684347s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub003/BOLD/task001_run001/QA/voxmean.png?versionId=null
-1487619405.568091315s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub003/BOLD/task001_run001/QA/voxmean.png?versionId=null
+1487283546.860979037s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub003/BOLD/task001_run001/QA/voxmean.png?versionId=null
+1492014885.937934173s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub003/BOLD/task001_run001/QA/voxmean.png?versionId=65VqEQ1aN70cJmwfJOu38IKaQfX7rYns
+1487561728.115684347s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub003/BOLD/task001_run001/QA/voxmean.png?versionId=null
+1487619405.568091315s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub003/BOLD/task001_run001/QA/voxmean.png?versionId=null

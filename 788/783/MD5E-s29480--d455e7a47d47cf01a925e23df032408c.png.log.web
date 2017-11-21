@@ -1,7 +1,7 @@
 1459398424.788192s 1 :dl+archive:MD5E-s2526804721--b29a61c20f974c5e75e7783500ebe8ed.tgz/ds001/sub012/BOLD/task001_run001/QA/meanpsd.png#size=29480
 1459398493.542317s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub012/BOLD/task001_run001/QA/meanpsd.png#size=29480
 1478182343.933387s 1 :http://openfmri.s3.amazonaws.com/ds001/sub012/BOLD/task001_run001/QA/meanpsd.png?versionId=null
-1487284052.449551996s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub012/BOLD/task001_run001/QA/meanpsd.png?versionId=null
-1492015756.618804848s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub012/BOLD/task001_run001/QA/meanpsd.png?versionId=xapqCLIF868ksHhURYmHXajr9zcFEvg8
-1487616119.374564787s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub012/BOLD/task001_run001/QA/meanpsd.png?versionId=null
-1487619917.700963405s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub012/BOLD/task001_run001/QA/meanpsd.png?versionId=null
+1487284052.449551996s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub012/BOLD/task001_run001/QA/meanpsd.png?versionId=null
+1492015756.618804848s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub012/BOLD/task001_run001/QA/meanpsd.png?versionId=xapqCLIF868ksHhURYmHXajr9zcFEvg8
+1487616119.374564787s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub012/BOLD/task001_run001/QA/meanpsd.png?versionId=null
+1487619917.700963405s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub012/BOLD/task001_run001/QA/meanpsd.png?versionId=null

@@ -1,7 +1,7 @@
 1459398410.204694s 1 :dl+archive:MD5E-s2526804721--b29a61c20f974c5e75e7783500ebe8ed.tgz/ds001/sub002/BOLD/task001_run001/QA/qadata.csv#size=64
 1459398490.298898s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub002/BOLD/task001_run001/QA/qadata.csv#size=64
 1478181512.328275s 1 :http://openfmri.s3.amazonaws.com/ds001/sub002/BOLD/task001_run001/QA/qadata.csv?versionId=null
-1487283486.352417482s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub002/BOLD/task001_run001/QA/qadata.csv?versionId=null
-1492014782.372679805s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub002/BOLD/task001_run001/QA/qadata.csv?versionId=P2DtEqeqDqXU07Gty0qBYrE22sXJKfjZ
-1487561661.625465328s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub002/BOLD/task001_run001/QA/qadata.csv?versionId=null
-1487619345.457312965s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub002/BOLD/task001_run001/QA/qadata.csv?versionId=null
+1487283486.352417482s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub002/BOLD/task001_run001/QA/qadata.csv?versionId=null
+1492014782.372679805s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub002/BOLD/task001_run001/QA/qadata.csv?versionId=P2DtEqeqDqXU07Gty0qBYrE22sXJKfjZ
+1487561661.625465328s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub002/BOLD/task001_run001/QA/qadata.csv?versionId=null
+1487619345.457312965s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub002/BOLD/task001_run001/QA/qadata.csv?versionId=null

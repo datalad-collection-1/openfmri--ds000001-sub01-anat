@@ -4,10 +4,10 @@
 1471197089.614924s 1 :dl+archive:MD5E-s2426534406--aa96b8184370de7170ab46e1a643c3c0.0raw.tgz#path=ds001_R2.0.0/sub-07/func/sub-07_task-balloonanalogrisktask_run-02_bold.nii.gz&size=49806095
 1464120206.737207s 1 :dl+archive:MD5E-s2426534406--aa96b8184370de7170ab46e1a643c3c0.0raw.tgz/ds001_R2.0.0/sub-07/func/sub-07_task-balloonanalogrisktask_run-02_bold.nii.gz#size=49806095
 1459398487.359674s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub007/BOLD/task001_run002/bold.nii.gz#size=49806095
-1487283786.205554571s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub007/BOLD/task001_run002/bold.nii.gz?versionId=null
-1487284590.434437667s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-07/func/sub-07_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=null
-1487615851.915963958s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub007/BOLD/task001_run002/bold.nii.gz?versionId=null
-1487783749.273202786s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-07/func/sub-07_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=ClY.vKiMyRK.8cK8fWezJWmz3N5TJWiQ
-1487616720.287211678s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-07/func/sub-07_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=null
-1487617099.949849128s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.2/uncompressed/sub-07/func/sub-07_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=null
-1487617440.722004906s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.3/uncompressed/sub-07/func/sub-07_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=null
+1487283786.205554571s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub007/BOLD/task001_run002/bold.nii.gz?versionId=null
+1487284590.434437667s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-07/func/sub-07_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=null
+1487615851.915963958s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub007/BOLD/task001_run002/bold.nii.gz?versionId=null
+1487783749.273202786s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-07/func/sub-07_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=ClY.vKiMyRK.8cK8fWezJWmz3N5TJWiQ
+1487616720.287211678s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-07/func/sub-07_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=null
+1487617099.949849128s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.2/uncompressed/sub-07/func/sub-07_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=null
+1487617440.722004906s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.3/uncompressed/sub-07/func/sub-07_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=null

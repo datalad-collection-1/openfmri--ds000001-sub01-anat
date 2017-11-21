@@ -1,4 +1,4 @@
 1477686484.067389s 1 :dl+archive:MD5E-s2415911708--63e02dea2a059517f25d1c2c9ae6c423.zip#path=ds000001_R2.0.2/sub-10/func/sub-10_task-balloonanalogrisktask_run-01_events.tsv&size=9915
 1477788578.130885s 1 :dl+archive:MD5E-s2415911710--5e509bac5a729d668f900d0440228402.zip#path=ds000001_R2.0.3/sub-10/func/sub-10_task-balloonanalogrisktask_run-01_events.tsv&size=9915
-1487617143.732631359s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.2/uncompressed/sub-10/func/sub-10_task-balloonanalogrisktask_run-01_events.tsv?versionId=null
-1487617496.44717264s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.3/uncompressed/sub-10/func/sub-10_task-balloonanalogrisktask_run-01_events.tsv?versionId=null
+1487617143.732631359s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.2/uncompressed/sub-10/func/sub-10_task-balloonanalogrisktask_run-01_events.tsv?versionId=null
+1487617496.44717264s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.3/uncompressed/sub-10/func/sub-10_task-balloonanalogrisktask_run-01_events.tsv?versionId=null

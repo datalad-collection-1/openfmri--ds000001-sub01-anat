@@ -1,5 +1,5 @@
 1478181429.346582s 1 :http://openfmri.s3.amazonaws.com/ds001/study_key.txt?versionId=null
-1487283422.832837132s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/study_key.txt?versionId=null
-1492014673.746499361s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/study_key.txt?versionId=wn0Y654rHc39wIykCEDYs99pfQKPqGqY
-1487561591.592670775s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/study_key.txt?versionId=null
-1487619276.267393787s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/study_key.txt?versionId=null
+1487283422.832837132s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/study_key.txt?versionId=null
+1492014673.746499361s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/study_key.txt?versionId=wn0Y654rHc39wIykCEDYs99pfQKPqGqY
+1487561591.592670775s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/study_key.txt?versionId=null
+1487619276.267393787s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/study_key.txt?versionId=null

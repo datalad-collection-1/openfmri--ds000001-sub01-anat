@@ -1,7 +1,7 @@
 1459398421.573807s 1 :dl+archive:MD5E-s2526804721--b29a61c20f974c5e75e7783500ebe8ed.tgz/ds001/sub010/BOLD/task001_run001/QA/maskmean.png#size=51448
 1459398479.808009s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub010/BOLD/task001_run001/QA/maskmean.png#size=51448
 1478182179.874143s 1 :http://openfmri.s3.amazonaws.com/ds001/sub010/BOLD/task001_run001/QA/maskmean.png?versionId=null
-1487283937.14737548s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub010/BOLD/task001_run001/QA/maskmean.png?versionId=null
-1492015566.110630894s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub010/BOLD/task001_run001/QA/maskmean.png?versionId=ZMdT2nyheGOeM4BvzSIlFrSXV5MpKqXP
-1487616004.804603353s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub010/BOLD/task001_run001/QA/maskmean.png?versionId=null
-1487619802.919974452s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub010/BOLD/task001_run001/QA/maskmean.png?versionId=null
+1487283937.14737548s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub010/BOLD/task001_run001/QA/maskmean.png?versionId=null
+1492015566.110630894s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub010/BOLD/task001_run001/QA/maskmean.png?versionId=ZMdT2nyheGOeM4BvzSIlFrSXV5MpKqXP
+1487616004.804603353s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub010/BOLD/task001_run001/QA/maskmean.png?versionId=null
+1487619802.919974452s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub010/BOLD/task001_run001/QA/maskmean.png?versionId=null
