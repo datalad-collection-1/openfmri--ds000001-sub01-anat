@@ -1,5 +1,6 @@
 1459398423.752643s 1 :dl+archive:MD5E-s2526804721--b29a61c20f974c5e75e7783500ebe8ed.tgz/ds001/sub011/BOLD/task001_run003/bold.nii.gz#size=49313294
 1478182304.267681s 1 :http://openfmri.s3.amazonaws.com/ds001/sub011/BOLD/task001_run003/bold.nii.gz?versionId=null
+1511242776.222903295s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub011/BOLD/task001_run003/bold.nii.gz?versionId=XZ5Lz9Vgk6kmDaq9U67ImYmw0F4olg3p
 1511239784.714726892s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub011/BOLD/task001_run003/bold.nii.gz?versionId=Ztj62HI8WKoSPnWmhfDJHotJTaAtWBD7
 1492015713.059733636s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub011/BOLD/task001_run003/bold.nii.gz?versionId=ebTdUcojrywNhvYQsZlkotPC8dCsYKkn
 1487619893.139800309s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub011/BOLD/task001_run003/bold.nii.gz?versionId=null
