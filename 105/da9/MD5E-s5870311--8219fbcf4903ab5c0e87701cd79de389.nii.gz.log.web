@@ -7,9 +7,12 @@
 1459398477.148596s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub009/anatomy/highres001.nii.gz#size=5870311
 1487283916.954041218s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub009/anatomy/highres001.nii.gz?versionId=null
 1487284615.058075285s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-09/anat/sub-09_T1w.nii.gz?versionId=null
+1511240682.08378774s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub009/anatomy/highres001.nii.gz?versionId=DeFGHh9tdKVIy2W69guycdPNor.UpaN6
 1487615983.176461819s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub009/anatomy/highres001.nii.gz?versionId=null
 1487783773.344416517s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-09/anat/sub-09_T1w.nii.gz?versionId=3Mf0BBoJk4o2fi2fe0mJOKNKfEazawgL
 1487616751.76634088s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-09/anat/sub-09_T1w.nii.gz?versionId=null
+1511241466.495359739s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-09/anat/sub-09_T1w.nii.gz?versionId=przetwKiQIzzHsSmNzmfIdvG0QV0Kz5w
+1511241791.714643702s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.2/uncompressed/sub-09/anat/sub-09_T1w.nii.gz?versionId=2PYX0uQBG0tAZUSpzu9ztjvTIPU8P5GJ
 1487617125.479685683s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.2/uncompressed/sub-09/anat/sub-09_T1w.nii.gz?versionId=null
 1487617468.865446521s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.3/uncompressed/sub-09/anat/sub-09_T1w.nii.gz?versionId=null
 1487617857.792412121s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.4/uncompressed/sub-09/anat/sub-09_T1w.nii.gz?versionId=null

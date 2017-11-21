@@ -3,5 +3,7 @@
 1478181948.824713s 1 :http://openfmri.s3.amazonaws.com/ds001/sub007/BOLD/task001_run002/QA/confound.txt?versionId=null
 1487283777.202995157s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub007/BOLD/task001_run002/QA/confound.txt?versionId=null
 1492015292.274756843s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub007/BOLD/task001_run002/QA/confound.txt?versionId=BpIVqJZeynkgXR6ad3ZSXkhSXniiDDVf
+1511239519.560697551s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub007/BOLD/task001_run002/QA/confound.txt?versionId=YFicECuHxS4jCp7QDRLbGqXc1ME9fQL0
 1487615839.230431448s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub007/BOLD/task001_run002/QA/confound.txt?versionId=null
+1511240544.030421251s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub007/BOLD/task001_run002/QA/confound.txt?versionId=q7ZRL.UjGKdTOWu4yy6QCYdgq6tR5LmP
 1487619642.559664072s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub007/BOLD/task001_run002/QA/confound.txt?versionId=null

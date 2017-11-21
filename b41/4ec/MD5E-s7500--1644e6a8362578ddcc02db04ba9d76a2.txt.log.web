@@ -3,5 +3,7 @@
 1478182176.727591s 1 :http://openfmri.s3.amazonaws.com/ds001/sub010/BOLD/task001_run001/QA/dvars.txt?versionId=null
 1487283935.29404651s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub010/BOLD/task001_run001/QA/dvars.txt?versionId=null
 1492015562.666941875s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub010/BOLD/task001_run001/QA/dvars.txt?versionId=KYdnSQUnD8.9CZtv4yFA8HYNknpsto2E
+1511239687.042471026s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub010/BOLD/task001_run001/QA/dvars.txt?versionId=Y0X5zOgzGsMyEIiaEBvPwS89G3eA0YSp
+1511240719.660773966s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub010/BOLD/task001_run001/QA/dvars.txt?versionId=4I0uoACRe7OwPytvgGLOBnJi1OOFM7dA
 1487616002.679197439s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub010/BOLD/task001_run001/QA/dvars.txt?versionId=null
 1487619801.094055824s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub010/BOLD/task001_run001/QA/dvars.txt?versionId=null

@@ -6,8 +6,12 @@
 1459398490.503876s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub002/BOLD/task001_run002/bold.nii.gz#size=50719855
 1487283508.357510316s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub002/BOLD/task001_run002/bold.nii.gz?versionId=null
 1487284494.43168724s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-02/func/sub-02_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=null
+1511240253.936233723s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub002/BOLD/task001_run002/bold.nii.gz?versionId=cpaWEiZ.o7M8YEyedqPEbxFrcsiBEb7v
 1487561681.288473548s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub002/BOLD/task001_run002/bold.nii.gz?versionId=null
 1487783673.765463832s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-02/func/sub-02_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=TujsSCCFB1C49BcpfbcnmRng4trUuEXp
+1511241317.907086682s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-02/func/sub-02_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=aL4ogY3iT.NvHbFZqmh0UnptP2OXGW5v
 1487616611.502919342s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.1/uncompressed/sub-02/func/sub-02_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=null
 1487617020.510145128s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.2/uncompressed/sub-02/func/sub-02_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=null
+1511241707.240403344s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.2/uncompressed/sub-02/func/sub-02_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=zn4DCNBAB28Pf.hsgdx3bolG3BbJR4A5
+1511242006.255586811s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.3/uncompressed/sub-02/func/sub-02_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=h.Kx6bSCH2XyTd0_qG5ZrbYAD8VoIWcn
 1487617341.073211116s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R2.0.3/uncompressed/sub-02/func/sub-02_task-balloonanalogrisktask_run-02_bold.nii.gz?versionId=null
