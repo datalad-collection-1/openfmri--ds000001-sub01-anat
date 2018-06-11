@@ -2,8 +2,12 @@
 1459398485.66609s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub005/BOLD/task001_run001/QA/mad.png#size=38334
 1478181759.536274s 1 :http://openfmri.s3.amazonaws.com/ds001/sub005/BOLD/task001_run001/QA/mad.png?versionId=null
 1487283649.631125336s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/mad.png?versionId=null
+1487283649.631125336s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/mad.png?versionId=null
+1487615722.172996519s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/mad.png?versionId=null
+1487615722.172996519s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/mad.png?versionId=null
+1487619520.444364567s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub005/BOLD/task001_run001/QA/mad.png?versionId=null
+1487619520.444364567s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub005/BOLD/task001_run001/QA/mad.png?versionId=null
 1492015073.120480905s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub005/BOLD/task001_run001/QA/mad.png?versionId=ERhYIxAWGfkxygVbOgWAWTAYMr5K0lM0
+1492015073.120480905s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub005/BOLD/task001_run001/QA/mad.png?versionId=ERhYIxAWGfkxygVbOgWAWTAYMr5K0lM0
 1511239382.062061929s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub005/BOLD/task001_run001/QA/mad.png?versionId=RfeWiNrj0YhmnRp4jyO07gpFlFol0ZwS
 1511240403.199172914s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/mad.png?versionId=WtYerN.oYYbWpYBqHKTKAWDrm_mSNqy1
-1487615722.172996519s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/mad.png?versionId=null
-1487619520.444364567s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub005/BOLD/task001_run001/QA/mad.png?versionId=null

@@ -2,8 +2,12 @@
 1459398476.106726s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub006/model/model001/onsets/task001_run002/cond004.txt#size=238
 1478181912.684339s 1 :http://openfmri.s3.amazonaws.com/ds001/sub006/model/model001/onsets/task001_run002/cond004.txt?versionId=null
 1487283752.381721825s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub006/model/model001/onsets/task001_run002/cond004.txt?versionId=null
+1487283752.381721825s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub006/model/model001/onsets/task001_run002/cond004.txt?versionId=null
+1487615817.253726506s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub006/model/model001/onsets/task001_run002/cond004.txt?versionId=null
+1487615817.253726506s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub006/model/model001/onsets/task001_run002/cond004.txt?versionId=null
+1487619622.555825823s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub006/model/model001/onsets/task001_run002/cond004.txt?versionId=null
+1487619622.555825823s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub006/model/model001/onsets/task001_run002/cond004.txt?versionId=null
 1492015255.169945768s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub006/model/model001/onsets/task001_run002/cond004.txt?versionId=fMK23kgDHsjXTvoG8BSl4aJ_3KerjvYw
+1492015255.169945768s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub006/model/model001/onsets/task001_run002/cond004.txt?versionId=fMK23kgDHsjXTvoG8BSl4aJ_3KerjvYw
 1511239492.32172521s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub006/model/model001/onsets/task001_run002/cond004.txt?versionId=u.ILdvZK29JEgMLXV5aVOU_x91V9FRIK
 1511240517.650782179s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub006/model/model001/onsets/task001_run002/cond004.txt?versionId=XEzQWadRlqvlbFIWwSgN.gW38hXpoIYz
-1487615817.253726506s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub006/model/model001/onsets/task001_run002/cond004.txt?versionId=null
-1487619622.555825823s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub006/model/model001/onsets/task001_run002/cond004.txt?versionId=null

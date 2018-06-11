@@ -1,6 +1,8 @@
 1487283416.169761985s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/compressed/ds001_R1.1.0_raw.tgz?versionId=null
-1511242908.905592512s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/compressed/ds001_R1.1.0_raw.tgz?versionId=jcXX6N5U_uhrW1JE.x0A4kh9V081fgUM
+1487283416.169761985s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/compressed/ds001_R1.1.0_raw.tgz?versionId=null
 1487561584.530745431s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/compressed/ds001_R1.1.0_raw.tgz?versionId=null
-1511240160.314074236s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/compressed/ds001_R1.1.0_raw.tgz?versionId=xbok.uRauzwJCiWUXG7uQUTYSQP.U6uD
-1511244418.329216637s 1 https://s3.amazonaws.com/openneuro/ds000001/ds000001_R1.1.0/compressed/ds001_R1.1.0_raw.tgz?versionId=jcXX6N5U_uhrW1JE.x0A4kh9V081fgUM
+1487561584.530745431s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/compressed/ds001_R1.1.0_raw.tgz?versionId=null
 1502827440.462594476s 1 https://s3.amazonaws.com/openneuro/ds000001/ds000001_R1.1.0/compressed/ds001_R1.1.0_raw.tgz?versionId=null
+1511240160.314074236s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/compressed/ds001_R1.1.0_raw.tgz?versionId=xbok.uRauzwJCiWUXG7uQUTYSQP.U6uD
+1511242908.905592512s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/compressed/ds001_R1.1.0_raw.tgz?versionId=jcXX6N5U_uhrW1JE.x0A4kh9V081fgUM
+1511244418.329216637s 1 https://s3.amazonaws.com/openneuro/ds000001/ds000001_R1.1.0/compressed/ds001_R1.1.0_raw.tgz?versionId=jcXX6N5U_uhrW1JE.x0A4kh9V081fgUM

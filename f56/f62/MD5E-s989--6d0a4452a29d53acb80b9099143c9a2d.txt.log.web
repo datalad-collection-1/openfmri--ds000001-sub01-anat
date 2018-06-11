@@ -2,8 +2,12 @@
 1459398475.812752s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub006/model/model001/onsets/task001_run003/cond011.txt#size=989
 1478181924.485803s 1 :http://openfmri.s3.amazonaws.com/ds001/sub006/model/model001/onsets/task001_run003/cond011.txt?versionId=null
 1487283760.336710475s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub006/model/model001/onsets/task001_run003/cond011.txt?versionId=null
-1511239500.81989282s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub006/model/model001/onsets/task001_run003/cond011.txt?versionId=1PUoqXRLpLr5D_jg6xokTZk36sW.iP5j
-1492015270.90615009s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub006/model/model001/onsets/task001_run003/cond011.txt?versionId=wQN7WNKqHHDabIMDRz3UvhBuIDo_jplI
-1511240526.893994367s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub006/model/model001/onsets/task001_run003/cond011.txt?versionId=_dAcFZS340lg.xnlowBhmwVDgqmaC65I
+1487283760.336710475s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub006/model/model001/onsets/task001_run003/cond011.txt?versionId=null
 1487615826.260944495s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub006/model/model001/onsets/task001_run003/cond011.txt?versionId=null
+1487615826.260944495s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub006/model/model001/onsets/task001_run003/cond011.txt?versionId=null
 1487619629.545384997s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub006/model/model001/onsets/task001_run003/cond011.txt?versionId=null
+1487619629.545384997s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub006/model/model001/onsets/task001_run003/cond011.txt?versionId=null
+1492015270.90615009s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub006/model/model001/onsets/task001_run003/cond011.txt?versionId=wQN7WNKqHHDabIMDRz3UvhBuIDo_jplI
+1492015270.90615009s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub006/model/model001/onsets/task001_run003/cond011.txt?versionId=wQN7WNKqHHDabIMDRz3UvhBuIDo_jplI
+1511239500.81989282s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub006/model/model001/onsets/task001_run003/cond011.txt?versionId=1PUoqXRLpLr5D_jg6xokTZk36sW.iP5j
+1511240526.893994367s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub006/model/model001/onsets/task001_run003/cond011.txt?versionId=_dAcFZS340lg.xnlowBhmwVDgqmaC65I

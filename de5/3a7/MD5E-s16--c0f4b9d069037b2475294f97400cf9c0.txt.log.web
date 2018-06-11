@@ -2,8 +2,12 @@
 1459398484.702984s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub003/BOLD/task001_run002/QA/scrubvols.txt#size=16
 1478181610.933202s 1 :http://openfmri.s3.amazonaws.com/ds001/sub003/BOLD/task001_run002/QA/scrubvols.txt?versionId=null
 1487283558.86235265s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub003/BOLD/task001_run002/QA/scrubvols.txt?versionId=null
-1492014903.25803185s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub003/BOLD/task001_run002/QA/scrubvols.txt?versionId=uNdZ8PAZXFi5GRv4fBsRXFBvndI06B5J
-1511239265.928794842s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub003/BOLD/task001_run002/QA/scrubvols.txt?versionId=zy08lnJlgiLuijeL6WltDHRO.wcWXnNh
+1487283558.86235265s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub003/BOLD/task001_run002/QA/scrubvols.txt?versionId=null
 1487561739.189242865s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub003/BOLD/task001_run002/QA/scrubvols.txt?versionId=null
-1511240305.908257017s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub003/BOLD/task001_run002/QA/scrubvols.txt?versionId=qNwpWxeDtUqY7q6io.qS2do4Fe9P0f_I
+1487561739.189242865s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub003/BOLD/task001_run002/QA/scrubvols.txt?versionId=null
 1487619415.705256105s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub003/BOLD/task001_run002/QA/scrubvols.txt?versionId=null
+1487619415.705256105s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub003/BOLD/task001_run002/QA/scrubvols.txt?versionId=null
+1492014903.25803185s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub003/BOLD/task001_run002/QA/scrubvols.txt?versionId=uNdZ8PAZXFi5GRv4fBsRXFBvndI06B5J
+1492014903.25803185s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub003/BOLD/task001_run002/QA/scrubvols.txt?versionId=uNdZ8PAZXFi5GRv4fBsRXFBvndI06B5J
+1511239265.928794842s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub003/BOLD/task001_run002/QA/scrubvols.txt?versionId=zy08lnJlgiLuijeL6WltDHRO.wcWXnNh
+1511240305.908257017s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub003/BOLD/task001_run002/QA/scrubvols.txt?versionId=qNwpWxeDtUqY7q6io.qS2do4Fe9P0f_I

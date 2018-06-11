@@ -2,8 +2,12 @@
 1459398478.211708s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub016/BOLD/task001_run001/QA/DVARS.png#size=61091
 1478182679.886712s 1 :http://openfmri.s3.amazonaws.com/ds001/sub016/BOLD/task001_run001/QA/DVARS.png?versionId=null
 1487284280.648987323s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub016/BOLD/task001_run001/QA/DVARS.png?versionId=null
-1511240059.58078687s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub016/BOLD/task001_run001/QA/DVARS.png?versionId=XXZtY6_E2bgBS8uv.P2LFZmu4kXtHC9y
-1492016120.689480038s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub016/BOLD/task001_run001/QA/DVARS.png?versionId=bP1NKJNh9_UbzJd9bPWkBgSZhvTqTafg
-1511241100.84002072s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub016/BOLD/task001_run001/QA/DVARS.png?versionId=TLfeIZ2tUNtu9QhXNTlwl_IKPeoFyHr0
+1487284280.648987323s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub016/BOLD/task001_run001/QA/DVARS.png?versionId=null
 1487616393.891000193s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub016/BOLD/task001_run001/QA/DVARS.png?versionId=null
+1487616393.891000193s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub016/BOLD/task001_run001/QA/DVARS.png?versionId=null
 1487620166.255409375s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub016/BOLD/task001_run001/QA/DVARS.png?versionId=null
+1487620166.255409375s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub016/BOLD/task001_run001/QA/DVARS.png?versionId=null
+1492016120.689480038s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub016/BOLD/task001_run001/QA/DVARS.png?versionId=bP1NKJNh9_UbzJd9bPWkBgSZhvTqTafg
+1492016120.689480038s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub016/BOLD/task001_run001/QA/DVARS.png?versionId=bP1NKJNh9_UbzJd9bPWkBgSZhvTqTafg
+1511240059.58078687s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub016/BOLD/task001_run001/QA/DVARS.png?versionId=XXZtY6_E2bgBS8uv.P2LFZmu4kXtHC9y
+1511241100.84002072s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub016/BOLD/task001_run001/QA/DVARS.png?versionId=TLfeIZ2tUNtu9QhXNTlwl_IKPeoFyHr0

@@ -2,8 +2,12 @@
 1459398482.384925s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub004/BOLD/task001_run003/QA/QA_report.pdf#size=1147492
 1478181710.681101s 1 :http://openfmri.s3.amazonaws.com/ds001/sub004/BOLD/task001_run003/QA/QA_report.pdf?versionId=null
 1487283620.40400071s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub004/BOLD/task001_run003/QA/QA_report.pdf?versionId=null
-1492015010.486733717s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub004/BOLD/task001_run003/QA/QA_report.pdf?versionId=795TJ.C5LePgMheNjC8432EIPRmfLTuW
-1511239343.568454439s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub004/BOLD/task001_run003/QA/QA_report.pdf?versionId=u1AjBLGOORpz77Ci0GOkfo__xZUa.tCE
+1487283620.40400071s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub004/BOLD/task001_run003/QA/QA_report.pdf?versionId=null
 1487561824.263458273s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub004/BOLD/task001_run003/QA/QA_report.pdf?versionId=null
-1511240370.651756442s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub004/BOLD/task001_run003/QA/QA_report.pdf?versionId=rMhGvQ6U4j8NvJG6B6EMjZ5uoRXshyok
+1487561824.263458273s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub004/BOLD/task001_run003/QA/QA_report.pdf?versionId=null
 1487619482.47199565s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub004/BOLD/task001_run003/QA/QA_report.pdf?versionId=null
+1487619482.47199565s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub004/BOLD/task001_run003/QA/QA_report.pdf?versionId=null
+1492015010.486733717s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub004/BOLD/task001_run003/QA/QA_report.pdf?versionId=795TJ.C5LePgMheNjC8432EIPRmfLTuW
+1492015010.486733717s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub004/BOLD/task001_run003/QA/QA_report.pdf?versionId=795TJ.C5LePgMheNjC8432EIPRmfLTuW
+1511239343.568454439s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub004/BOLD/task001_run003/QA/QA_report.pdf?versionId=u1AjBLGOORpz77Ci0GOkfo__xZUa.tCE
+1511240370.651756442s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub004/BOLD/task001_run003/QA/QA_report.pdf?versionId=rMhGvQ6U4j8NvJG6B6EMjZ5uoRXshyok
