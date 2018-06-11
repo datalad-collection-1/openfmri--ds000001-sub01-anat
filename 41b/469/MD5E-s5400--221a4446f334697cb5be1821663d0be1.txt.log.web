@@ -2,8 +2,12 @@
 1459398485.737811s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub005/BOLD/task001_run001/QA/scrubdes.txt#size=5400
 1478181762.759395s 1 :http://openfmri.s3.amazonaws.com/ds001/sub005/BOLD/task001_run001/QA/scrubdes.txt?versionId=null
 1487283652.127695061s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubdes.txt?versionId=null
+1487283652.127695061s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubdes.txt?versionId=null
+1487615723.78324236s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubdes.txt?versionId=null
+1487615723.78324236s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubdes.txt?versionId=null
+1487619522.090257578s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub005/BOLD/task001_run001/QA/scrubdes.txt?versionId=null
+1487619522.090257578s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub005/BOLD/task001_run001/QA/scrubdes.txt?versionId=null
 1492015075.35746928s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubdes.txt?versionId=dqzMiNXYjlZTrSPmjl0NCKmA5pewMOVd
+1492015075.35746928s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubdes.txt?versionId=dqzMiNXYjlZTrSPmjl0NCKmA5pewMOVd
 1511239384.109070202s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubdes.txt?versionId=jp1l2poV_RSj7nEg44zwjp2Hyv_lk59c
 1511240404.862248534s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubdes.txt?versionId=_yO6B_1SVbeTTXELU0jF1vh3eDNO0jC5
-1487615723.78324236s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubdes.txt?versionId=null
-1487619522.090257578s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub005/BOLD/task001_run001/QA/scrubdes.txt?versionId=null

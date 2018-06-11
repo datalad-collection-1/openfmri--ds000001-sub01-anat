@@ -1,5 +1,7 @@
 1459398419.500682s 1 :dl+archive:MD5E-s2526804721--b29a61c20f974c5e75e7783500ebe8ed.tgz/ds001/sub008/anatomy/highres001_brain.nii.gz#size=954288
 1478182062.81813s 1 :http://openfmri.s3.amazonaws.com/ds001/sub008/anatomy/highres001_brain.nii.gz?versionId=null
-1511239600.667669975s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub008/anatomy/highres001_brain.nii.gz?versionId=A.3KBESjdA2a.ixW8W9.Y2JHEel0.IuV
-1492015425.424821842s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub008/anatomy/highres001_brain.nii.gz?versionId=xhkfcyGAigXSMIWCSUrpKhfOWqw8A.w9
 1487619724.281920643s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub008/anatomy/highres001_brain.nii.gz?versionId=null
+1487619724.281920643s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub008/anatomy/highres001_brain.nii.gz?versionId=null
+1492015425.424821842s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub008/anatomy/highres001_brain.nii.gz?versionId=xhkfcyGAigXSMIWCSUrpKhfOWqw8A.w9
+1492015425.424821842s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub008/anatomy/highres001_brain.nii.gz?versionId=xhkfcyGAigXSMIWCSUrpKhfOWqw8A.w9
+1511239600.667669975s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub008/anatomy/highres001_brain.nii.gz?versionId=A.3KBESjdA2a.ixW8W9.Y2JHEel0.IuV

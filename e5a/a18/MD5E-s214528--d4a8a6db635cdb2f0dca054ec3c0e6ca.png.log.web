@@ -2,8 +2,12 @@
 1459398479.853294s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub010/BOLD/task001_run001/QA/voxsfnr.png#size=214528
 1478182184.626356s 1 :http://openfmri.s3.amazonaws.com/ds001/sub010/BOLD/task001_run001/QA/voxsfnr.png?versionId=null
 1487283941.223050864s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub010/BOLD/task001_run001/QA/voxsfnr.png?versionId=null
+1487283941.223050864s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub010/BOLD/task001_run001/QA/voxsfnr.png?versionId=null
+1487616008.07113944s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub010/BOLD/task001_run001/QA/voxsfnr.png?versionId=null
+1487616008.07113944s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub010/BOLD/task001_run001/QA/voxsfnr.png?versionId=null
+1487619806.754367681s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub010/BOLD/task001_run001/QA/voxsfnr.png?versionId=null
+1487619806.754367681s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub010/BOLD/task001_run001/QA/voxsfnr.png?versionId=null
 1492015578.850872521s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub010/BOLD/task001_run001/QA/voxsfnr.png?versionId=G9zzVLbjs_81CH0yZFwPmlwdXhSWTaLG
+1492015578.850872521s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub010/BOLD/task001_run001/QA/voxsfnr.png?versionId=G9zzVLbjs_81CH0yZFwPmlwdXhSWTaLG
 1511239692.79261427s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub010/BOLD/task001_run001/QA/voxsfnr.png?versionId=LMc.sj2TYP0AX4seYUwooVFs2vM_Mlqn
 1511240729.389233227s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub010/BOLD/task001_run001/QA/voxsfnr.png?versionId=8Hvst_Nea05hSReAn.0Ly51OPw_exJ.H
-1487616008.07113944s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub010/BOLD/task001_run001/QA/voxsfnr.png?versionId=null
-1487619806.754367681s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub010/BOLD/task001_run001/QA/voxsfnr.png?versionId=null

@@ -1,4 +1,6 @@
 1459398494.087528s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub012/anatomy/highres001_brain_mask.nii.gz#size=51174
 1487284092.419334617s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub012/anatomy/highres001_brain_mask.nii.gz?versionId=null
-1511240882.324999316s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub012/anatomy/highres001_brain_mask.nii.gz?versionId=mrrlJgvj3cXAAKRgTXIG3NrvahwLRXU7
+1487284092.419334617s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub012/anatomy/highres001_brain_mask.nii.gz?versionId=null
 1487616155.527832851s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub012/anatomy/highres001_brain_mask.nii.gz?versionId=null
+1487616155.527832851s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub012/anatomy/highres001_brain_mask.nii.gz?versionId=null
+1511240882.324999316s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub012/anatomy/highres001_brain_mask.nii.gz?versionId=mrrlJgvj3cXAAKRgTXIG3NrvahwLRXU7

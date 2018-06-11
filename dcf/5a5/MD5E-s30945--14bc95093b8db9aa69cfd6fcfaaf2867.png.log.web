@@ -2,8 +2,12 @@
 1459398472.526077s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub013/BOLD/task001_run002/QA/fd.png#size=30945
 1478182442.503367s 1 :http://openfmri.s3.amazonaws.com/ds001/sub013/BOLD/task001_run002/QA/fd.png?versionId=null
 1487284125.169102707s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub013/BOLD/task001_run002/QA/fd.png?versionId=null
-1511239884.075710271s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub013/BOLD/task001_run002/QA/fd.png?versionId=KbW4Av6jPmiL2GcIb4_1my5YdhIIhDsg
-1492015865.529839513s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub013/BOLD/task001_run002/QA/fd.png?versionId=_eKsyYw0vY86ZLSJECaBB66ibP_EzWIa
-1511240915.609656493s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub013/BOLD/task001_run002/QA/fd.png?versionId=YzASK2Z71W8f9mX5_DOT6XSXq0xhm3Bw
+1487284125.169102707s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub013/BOLD/task001_run002/QA/fd.png?versionId=null
 1487616187.62106986s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub013/BOLD/task001_run002/QA/fd.png?versionId=null
+1487616187.62106986s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub013/BOLD/task001_run002/QA/fd.png?versionId=null
 1487619985.452788887s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub013/BOLD/task001_run002/QA/fd.png?versionId=null
+1487619985.452788887s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub013/BOLD/task001_run002/QA/fd.png?versionId=null
+1492015865.529839513s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub013/BOLD/task001_run002/QA/fd.png?versionId=_eKsyYw0vY86ZLSJECaBB66ibP_EzWIa
+1492015865.529839513s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub013/BOLD/task001_run002/QA/fd.png?versionId=_eKsyYw0vY86ZLSJECaBB66ibP_EzWIa
+1511239884.075710271s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub013/BOLD/task001_run002/QA/fd.png?versionId=KbW4Av6jPmiL2GcIb4_1my5YdhIIhDsg
+1511240915.609656493s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub013/BOLD/task001_run002/QA/fd.png?versionId=YzASK2Z71W8f9mX5_DOT6XSXq0xhm3Bw
