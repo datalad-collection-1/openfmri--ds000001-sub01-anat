@@ -1,0 +1,13 @@
+1459398414.28052s 1 :dl+archive:MD5E-s2526804721--b29a61c20f974c5e75e7783500ebe8ed.tgz/ds001/sub005/BOLD/task001_run001/QA/scrubvols.txt#size=36
+1459398485.723082s 1 :dl+archive:MD5E-s2527262329--bd3ea399057c529b37b09dcecec1ca60.0raw.tgz/ds001_R1.1.0/sub005/BOLD/task001_run001/QA/scrubvols.txt#size=36
+1478181763.935838s 1 :http://openfmri.s3.amazonaws.com/ds001/sub005/BOLD/task001_run001/QA/scrubvols.txt?versionId=null
+1487283652.509886283s 0 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubvols.txt?versionId=null
+1487283652.509886283s 1 :http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubvols.txt?versionId=null
+1487615724.065963052s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubvols.txt?versionId=null
+1487615724.065963052s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubvols.txt?versionId=null
+1487619522.429712733s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub005/BOLD/task001_run001/QA/scrubvols.txt?versionId=null
+1487619522.429712733s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_unrevisioned/uncompressed/sub005/BOLD/task001_run001/QA/scrubvols.txt?versionId=null
+1492015079.277584928s 0 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubvols.txt?versionId=dkq_a7RRHImV.I9UoGPx07AjplLEnzyA
+1492015079.277584928s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubvols.txt?versionId=dkq_a7RRHImV.I9UoGPx07AjplLEnzyA
+1511239384.492325052s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.0.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubvols.txt?versionId=GlKBLufPlNjyyK4mZshRwHlY2QN0zjvo
+1511240405.39377076s 1 http://openneuro.s3.amazonaws.com/ds000001/ds000001_R1.1.0/uncompressed/sub005/BOLD/task001_run001/QA/scrubvols.txt?versionId=o8Olcb0D3stv7CzkUQq5bt5XLtNaoAxJ
